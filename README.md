@@ -9,12 +9,3 @@ Total Amount
 Avg. Rating
 Avg. Days to Deliver
 # Questions
-Trend in the last 13 weeks
-How our customers like to buy
-How many they buy?
-Which products are popular?
-Overall gender split
-Where do our customers live?
-How long we take to ship the orders
-How happy are our customers?
-
